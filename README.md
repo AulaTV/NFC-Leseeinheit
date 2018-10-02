@@ -1,6 +1,8 @@
 # NFC-Leseeinheit
 NFC Einheit für die Authentifizierung von Benutzern
 
+Hinweis: DIe Seite befindet sich im Aufbau. 
+
 ## Übersicht
 Die NFC Leseeinheit vereint einige Funktionen auf einer 54 x 54 mm großen, doppelseitigen Platine:
 - Anschluss eines PN532 NFC Moduls über I2C
@@ -23,7 +25,7 @@ Der Bootloader kann entweder direkt aus der Arduino IDE heraus gebrannt werden, 
 
 Das Hexfile für den Arduino Pro Mini 3,3 V, 8 MHz befindet sich unter C:\Program Files (x86)\Arduino\hardware\arduino\avr\bootloaders\atmega\ATmegaBOOT_168_atmega328_pro_8MHz.hex.
 
-Es können auch lternative Bootloader wie z.B. Optiboot verwendet werden. Hier wird jedoch der Standard-Bootloader zum Einsatz kommen.
+Es können auch alternative Bootloader wie z.B. Optiboot verwendet werden. Hier wird jedoch der Standard-Bootloader zum Einsatz kommen.
 
 ### Firmware
 to be updated ...
